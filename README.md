@@ -1,6 +1,6 @@
 # COLLNet-LSTM
 
-##Environment
+## Environment
 Currently, requires following packages
 * python 3.10
 * CUDA Version: 11.8
