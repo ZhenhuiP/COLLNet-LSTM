@@ -6,4 +6,4 @@ Currently, requires following packages
 * CUDA Version: 11.8
 * PyTorch 2.0.0
 * torchvision 0.15.1
-* timm 1.0.1
+* timm 0.6.13
